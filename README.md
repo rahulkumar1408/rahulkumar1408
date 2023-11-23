@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **https://rahulkumar1408.github.io/personal-portfolio/**
+- 📫 How to reach me **rahul.kumar167273@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
