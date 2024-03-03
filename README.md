@@ -65,6 +65,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar1408&show_icons=true&locale=en" alt="rahulkumar1408" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1408&" alt="rahulkumar1408" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar1408&show_icons=true&locale=en" alt="rahulkumar1408"height="400" width="400" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar1408&" alt="rahulkumar1408" height="400" width="400" /></p>
 
 <p></p>
